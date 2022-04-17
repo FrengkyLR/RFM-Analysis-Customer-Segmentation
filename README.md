@@ -9,5 +9,5 @@ Dibawah ini adalah hasil visualisasi clustering yang didapatkan
 conclusion
 1. Cluster pertama merupakan segmen dari "Best Customers" yang memiliki recency (R=1) yaitu customer akhir-akhir ini melakukan transaksi terbaru, frequency (F=1) yaitu customer terbanyak yang membeli produk, dan Monetary (M=1) yaitu customer mengeluarkan banyak uang untuk melakukan sekali transaksi.
 2. Pelanggan di cluster kedua dapat diartikan sebagai pelanggan yang sudah lewat karena pembelian terakhir mereka sudah lama (R=4), membeli sangat sedikit (F=4) dan menghabiskan uang sedikit (M=4). Perusahaan harus menemukan strategi baru untuk menjadikan mereka customer yang loyal. 
-3. Cluster ketiga lebih terkait dengan segmen "Hampir Hilang" karena mereka sudah lama tidak membeli (R=3), tetapi sering membeli dan menghabiskan banyak uang.t.
+3. Cluster ketiga lebih terkait dengan segmen "Hampir Hilang" karena mereka sudah lama tidak membeli (R=3), tetapi sering membeli dan menghabiskan banyak uang.
 4. Cluster terakhir adalah Pelanggan yang sangat Loyal dan mereka juga menghabiskan banyak uang.
